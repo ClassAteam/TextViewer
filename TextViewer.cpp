@@ -4,7 +4,7 @@
 #include "KWnd.h"
 #include "KDocument.h"
 
-#define FILE_NAME "C:\\Program files\\Microsoft Visual Studio\\VC98\\MFC\\SRC\\README.TXT"
+#define FILE_NAME "Text.TXT"
 
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 
